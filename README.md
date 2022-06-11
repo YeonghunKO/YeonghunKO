@@ -4,16 +4,17 @@
   <h1> Hi, I'm Yeonghun 👋 </h1>
   
  
-  
-  
-  
+ 
   
 <h2>✨Front-end Skill✨</h2>
+   
   <div>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label="/>
     <img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB"/>
   </div>
-  <div>
+  
+  <div> 
     <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=CSS3&logoColor=1572B6"/>
     <img src="https://img.shields.io/badge/SASS-black?style=flat-square&logo=Sass&logoColor=CC6699"/>
     <img src="https://img.shields.io/badge/StyledComponents-black?style=flat-square&logo=styled-components&logoColor=DB7093"/>
